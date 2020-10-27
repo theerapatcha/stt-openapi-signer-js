@@ -1,13 +1,11 @@
 # Settrade OpenAPI parameters signer
 ## Overview
---------
 Website: [Settrade OpenAPI](https://developer.settrade.com/open-api)
 
 Related API: [Login by APP](https://developer.settrade.com/open-api/document/api-reference/oam/broker-app-auth-controller/loginByApp>)
 
 
 ## Installation
-------------
 ### Using prebuilt version
 1. Download a library in `./dist` folder based on your environment
     - stt-open-api-signer.js (Node)
@@ -19,8 +17,6 @@ Related API: [Login by APP](https://developer.settrade.com/open-api/document/api
 2. Run `npm run build`
 
 ## Usage
------
-
 Node Example: 
 ```node
 const signer = require("./dist/stt-openapi-signer.min")
