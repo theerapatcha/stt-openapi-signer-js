@@ -1,9 +1,9 @@
 # Settrade OpenAPI parameters signer
 ## Overview
 --------
-Website: `Settrade OpenAPI <https://developer.settrade.com/open-api>`_.
+Website: [Settrade OpenAPI](https://developer.settrade.com/open-api)
 
-Related API: `Login by APP <https://developer.settrade.com/open-api/document/api-reference/oam/broker-app-auth-controller/loginByApp>`_.
+Related API: [Login by APP](https://developer.settrade.com/open-api/document/api-reference/oam/broker-app-auth-controller/loginByApp>)
 
 
 ## Installation
