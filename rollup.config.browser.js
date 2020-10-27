@@ -41,11 +41,11 @@ export default {
         resolve(),
         commonjs(),
         license({
-            banner: {
+            /* banner: {
                 content: {
                     file: 'banner.tmpl',
                 },
-            },
+            }, */
             thirdParty: {
                 output: {
                     file: 'dist/dependencies.txt',
